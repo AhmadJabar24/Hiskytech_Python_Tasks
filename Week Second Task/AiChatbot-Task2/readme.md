@@ -1,0 +1,1 @@
+❤🚀I’ve successfully implemented a versatile chatbot that responds to predefined keywords and phrases. This chatbot is designed to handle a variety of user inputs and generate suitable responses accordingly. Additionally, for enhanced functionality, I’ve utilized the ChatterBot library, which allows for more sophisticated conversational capabilities.:😘🚀✔
